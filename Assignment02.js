@@ -32,6 +32,38 @@ window.onload = function init()
         vec3(0,0,0),
         vec3(1,1,1),
         vec3(0,0,0),
+
+        vec3(0,0,0),
+        vec3(0,0,0),
+        vec3(0,0,0),
+
+        vec3(0,0,0),
+        vec3(0,0,0),
+        vec3(0,0,0),
+
+        vec3(0,0,0),
+        vec3(0,0,0),
+        vec3(0,0,0),
+
+        vec3(0,0,0),
+        vec3(0,0,0),
+        vec3(0,0,0),
+
+        vec3(0,0,0),
+        vec3(0,0,0),
+        vec3(0,0,0),
+
+        vec3(0,0,0),
+        vec3(0,0,0),
+        vec3(0,0,0),
+
+        vec3(0,0,0),
+        vec3(0,0,0),
+        vec3(0,0,0),
+
+        vec3(0,0,0),
+        vec3(0,0,0),
+        vec3(0,0,0)
     ];
 
     // And, add our vertices point into our array of points
